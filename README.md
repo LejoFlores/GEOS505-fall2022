@@ -2,5 +2,5 @@
 
 ## Lejo Flores
 
-Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)
+Email: [lejoflores@boisestate.edu](mailto:lejoflores@boisestate.edu)
 
