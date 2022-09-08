@@ -8,11 +8,11 @@
 
 ## SMART Goals
 
---------- | ---------
- S | Specific 
- M | Measurable 
- A | Achievable 
- R | Relevant 
- T | Time-bound 
---------- | ---------
+| Letter | Description |
+| --------- | --------- |
+| S | Specific |
+| M | Measurable |
+| A | Achievable |
+| R | Relevant |
+| T | Time-bound |
 
